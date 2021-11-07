@@ -1,5 +1,4 @@
 <h2> Hi, I'm Aditya `AKA` Adion! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-[GitHub Adion52330](https://img.shields.io/github/followers/Adion52330?label=follow&style=social)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
@@ -22,3 +21,6 @@ const aboutMe = {
    challenge: "full stack developer",
 };
 ```
+
+##GitHub Stats
+[![Adion52330 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adion52330&show_icons=true&count_private=true)](https://github.com/anandmainali)
