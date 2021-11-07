@@ -17,7 +17,7 @@ const aboutMe = {
       databases: ["MongoDB", "firebase"],
       mobile: ["Android"]
    },
-   currentOccupation: ["amateur cdoer"],
+   currentOccupation: ["amateur coder"],
    challenge: "full stack developer",
 };
 ```
