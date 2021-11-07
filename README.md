@@ -1,5 +1,5 @@
 <h2> Hi, I'm Aditya `AKA` Adion! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-![GitHub Adion52330](https://img.shields.io/github/followers/Adion52330?label=follow&style=social)](https://github.com/Adion52330)
+![GitHub Adion52330](https://img.shields.io/github/followers/Adion52330?label=follow&style=social)(https://github.com/Adion52330)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
