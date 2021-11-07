@@ -22,5 +22,5 @@ const aboutMe = {
 };
 ```
 
-##GitHub Stats
+<h2>GitHub Stats</h2>
 [![Adion52330 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adion52330&show_icons=true&count_private=true)](https://github.com/anandmainali)
